@@ -1,0 +1,9 @@
+[package]
+name = "Scale"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+eframe = "0.32.2"
+egui = "0.32.2"
+image = "0.25.8"
